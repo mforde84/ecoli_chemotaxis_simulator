@@ -1,0 +1,2 @@
+/home/blik/Desktop/expand/app/build/intermediates/classes/debug
+/home/blik/Desktop/expand/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2a071d0d318668e8a68122e2299437b9f00a4497.jar
